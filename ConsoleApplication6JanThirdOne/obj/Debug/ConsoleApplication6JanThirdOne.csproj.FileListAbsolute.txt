@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ConsoleApplication6JanThirdOne\ConsoleApplication6JanThirdOne\bin\Debug\ConsoleApplication6JanThirdOne.exe.config
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\ConsoleApplication6JanThirdOne\ConsoleApplication6JanThirdOne\obj\Debug\ConsoleApplication6JanThirdOne.csprojResolveAssemblyReference.cache
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\ConsoleApplication6JanThirdOne\ConsoleApplication6JanThirdOne\bin\Debug\ConsoleApplication6JanThirdOne.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\ConsoleApplication6JanThirdOne\ConsoleApplication6JanThirdOne\bin\Debug\ConsoleApplication6JanThirdOne.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\ConsoleApplication6JanThirdOne\ConsoleApplication6JanThirdOne\obj\Debug\ConsoleApplication6JanThirdOne.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\ConsoleApplication6JanThirdOne\ConsoleApplication6JanThirdOne\obj\Debug\ConsoleApplication6JanThirdOne.pdb
